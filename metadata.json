@@ -1,0 +1,7 @@
+{
+  "name": "SawtAlArab TTS Studio",
+  "description": "A professional AI-powered Text-to-Speech tool specifically optimized for Arabic dialects, featuring high-fidelity voices and a modern studio interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
